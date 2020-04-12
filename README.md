@@ -1,2 +1,3 @@
-# Fire-TV-Stick
 FIRE STICK TV D'AMAZON
+
+Fire TV Stick connecte votre TV HD à un univers de divertissement en ligne. Profitez d'une large sélection de films, séries et jeux. Avec Fire TV Stick, accédez au contenu d'Amazon Prime Video et de Netflix en toute simplicité. Accédez directement à des millions de sites Web tels que YouTube, Facebook etc...
