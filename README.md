@@ -7,3 +7,6 @@ Fire TV Stick Basic Edition disponible au https://www.amazon.fr/Fire-TV-Stick-Ba
 Fire TV Stick avec télécommande vocale Alexa disponible au https://www.amazon.fr/gp/product/B07PVCVBN7
 
 Fire TV Stick 4K disponible au https://www.amazon.fr/dp/B07PW9VBK5
+
+Fichiers Externes pour Fire TV Sick disponible au 
+https://github.com/luluvulcain/Fire-TV-Stick/releases/
